@@ -4,7 +4,6 @@ Assignment 1
 
 
 Instance type:
-ami-054217b0faf130d36
 Worker instance Type = T2.nano
 Manager instance Type = T2_MEDIUM
 
