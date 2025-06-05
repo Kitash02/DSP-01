@@ -1,5 +1,18 @@
-# Default ignored files
-/shelf/
+# IntelliJ / IDE settings
 .idea/
+*.iml
+shelf/
+
+# Build outputs
 target/
-storage/
+dependency-reduced-pom.xml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode (אם רלוונטי)
+.vscode/
